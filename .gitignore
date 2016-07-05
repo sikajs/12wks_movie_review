@@ -16,5 +16,5 @@
 !/log/.keep
 /tmp
 
-/pbulic
+/public/system/movies/images/
 .ruby-version
